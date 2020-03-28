@@ -19,6 +19,7 @@
             <form action="bookeditcomplete.php" method="post">
                 <?php foreach($book as $rows): ?>
                     <div class="form-group row">
+                        <input type="hidden" name="id" value="<?php echo $_GET['id'] ?>">
                         <label for="BookName" class="col-sm-2 col-form-label">ชื่อหนังสือ</label>
                         <div class="col-sm-10">
                             <input type="text" class="form-control" name="BookName" value="<?php echo $rows['BookName'] ?>">
