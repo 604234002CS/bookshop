@@ -124,3 +124,4 @@ INSERT INTO `Books` (`BookId`, `CategoryID`, `AuthorID`, `PublisherID`, `BookNam
 INSERT INTO `Books` (`BookId`, `CategoryID`, `AuthorID`, `PublisherID`, `BookName`, `BookDescription`, `BookPrice`, `BookStatus`, `BookISBN`, `BookNumPages`) VALUES (14, 3, 7, 5, 'Why We Sleep : นอนเปลี่ยนชีวิต', '\"การนอนหลับ\" คือกลไกอัศจรรย์ที่ธรรมชาติรังสรรค์ให้มนุษย์ และเป็นหนึ่งในสามเสาหลักแห่งสุขภาพดี ควบคู่กับอาหารและการออกกำลังกาย ทว่าน้อยคนจะเข้าใจปริศนาเบื้องหลังการนอนหลับและการฝัน และมักมองข้ามกิจวัตรยามค่ำคืนอันแสนสำคัญ ซึ่งเป็นกุญแจสู่คุณภาพชีวิตและอายุขัยที่ยืนยาว', 395, 1, '9786168221303', 504);
 # 14 records
 
+
